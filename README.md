@@ -1,6 +1,6 @@
 # Alguns estudos com [React.js](https://reactjs.org)
 
-// [React Search Filter](./react-search-filter/README.MD)
+// [React Search Filter](./react-search-filter/README.md)
 
 // [useCallback](./react-useCallback/README.md)
 
